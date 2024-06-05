@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pytest = ">=3.6.0"
+pytest-timeout = "*"
+pexpect = "*"
+jsonschema = "*"
+psutil = "*"
+pytest-rerunfailures = "*"
+
+[dev-packages]
+codespell = "*"
+bandit = "*"
+pylint = "==2.17.0"
+
+[requires]

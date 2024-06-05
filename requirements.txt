@@ -1,0 +1,9 @@
+git+https://github.com/nikmand/Reinforcement-Learning-Library.git#egg=rlsuite
+git+https://github.com/intel/intel-cmt-cat.git#egg=pqos&subdirectory=lib/python
+torch
+torchvision
+tb-nightly
+gym
+matplotlib
+docker
+numpy
